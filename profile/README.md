@@ -1,4 +1,6 @@
-# Welcome to gitofcookie 👋
+### THIS README IS CURRENTLY UNDER DEVELOPMENT.
+
+# Welcome to official github organization of cookie 👋
 
 ![GitHub Organization](https://img.shields.io/badge/GitHub-gitofcookie-blue?style=flat-square&logo=github)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
