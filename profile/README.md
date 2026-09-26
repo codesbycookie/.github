@@ -1,35 +1,30 @@
-### THIS README IS CURRENTLY UNDER DEVELOPMENT.
+# 🍪 Cookie Inc.
 
-# Welcome to official github organization of cookie 👋
+**A Chennai-based software studio building digital products end-to-end.**
 
-![GitHub Organization](https://img.shields.io/badge/GitHub-gitofcookie-blue?style=flat-square&logo=github)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-success?style=flat-square)
+We design, build, and ship web apps, mobile apps, and digital experiences for real clients — from the first line of database schema to production deployment.
 
-## 🚀 About Us
-**gitofcookie** is a team of passionate developers building innovative software solutions in **Full-Stack Development, AI/ML, and Cloud Computing**. We aim to create efficient, scalable, and user-friendly applications.
+---
 
-## 💡 What We Do
-- **Web Development** (React, Node.js, Firebase)
-- **AI/ML Projects** (Python, TensorFlow, OpenCV)
-- **Cloud-Based Solutions** (Render, Firebase, Cloudinary)
-- **Open Source Contributions**
+## 🚀 What We Do
 
-## 🔥 Featured Projects
-- **[YelpCamp React](https://github.com/gitofcookie/yelpcamp-react)** - A modern camp listing app with Firebase authentication.
-- **[Talk My PDF](https://github.com/gitofcookie/talk-my-pdf)** - Extracts text from PDFs and converts them into speech.
-- **[AR Marble Viewer](https://github.com/gitofcookie/ar-marble-viewer)** - Showcases marble textures in Augmented Reality.
+- **Web Development** — Full-stack web apps, dashboards, and CRM/ERP systems
+- **Mobile Apps** — Cross-platform apps built with React Native / Expo
+- **UI/UX & Branding** — Design systems and dynamic websites
+- **Digital Marketing** — Content, social media, and growth support
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitofcookie&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitofcookie&layout=compact&theme=radical)
+---
 
-## 🤝 Contributing
-We welcome contributions! Check out our [contributing guidelines](CONTRIBUTING.md) and feel free to submit a pull request.
+## 💡 How We Work
 
-## 📫 Connect With Us
-- 🌐 Website: [cookie.org.in](https://cookie.org.in)
-- 📩 Email: contact@cookie.org.in
-- 🐦 Twitter: [@gitofcookie](https://twitter.com/gitofcookie)
+No shortcuts. Every project is taken from concept to launch by a dedicated team, covering design, development, deployment, and testing — so clients get one accountable partner instead of juggling multiple vendors.
 
-⚡ **Let's build something amazing together!** 🚀
+---
+
+## 📬 Get in Touch
+
+Interested in working with us? Reach out to discuss your project.
+
+---
+
+<p align="center">Built properly, end-to-end, no shortcuts. — <strong>Cookie Inc.</strong></p>
